@@ -42,3 +42,5 @@ for i in range(10):
 
 print("Mayeul can write extremely hard python code!")
 print("Guillaume is very happy to do that with Mayeul")
+
+print("Modified with Mayeul on github.com")
