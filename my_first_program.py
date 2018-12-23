@@ -39,3 +39,6 @@ for i in range(10):
     a = randint(0, len(famille) - 1)
     b = randint(0, len(famille) - 1)
     print(famille[a] + " aime " + famille[b])
+
+print("Mayeul can write extremely hard python code!")
+print("Guillaume is very happy to do that with Mayeul")
